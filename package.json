@@ -1,7 +1,6 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "type": "module",
   "description": "",
   "main": "./src/index.ts",
   "scripts": {
@@ -26,7 +25,9 @@
     "mongodb": "^6.5.0",
     "mongoose": "^8.3.1",
     "multer": "^1.4.5-lts.1",
-    "stripe": "^14.25.0"
+    "nodejs": "^0.0.0",
+    "stripe": "^14.25.0",
+    "tls": "^0.0.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
